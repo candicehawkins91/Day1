@@ -1,0 +1,15 @@
+*{
+    background-color: #4b4;
+    color: #555;
+}
+footer{
+    margin-top: 50px;
+    background-color: antiquewhite;
+    color: black;
+}
+.section{
+    text-align: center;
+}
+.pre{
+    text-align: auto;
+}
